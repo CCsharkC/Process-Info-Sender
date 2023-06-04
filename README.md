@@ -1,5 +1,5 @@
 # Process_Sender
-Uses the "Sender" script to send processes to the "Reciever" script
+Uses the "Sender" script to send process information to the "Reciever" script
 
 Notice:
 
